@@ -9,6 +9,6 @@ then launch it :
 
 ![alt text](readme2048/launch2048.png)
 
-You are ready to play ! 
+You are ready to play ! using arrow keys and escape to quit !
 
 ![alt text](readme2048/2048.gif)
